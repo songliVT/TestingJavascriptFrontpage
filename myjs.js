@@ -1,5 +1,5 @@
 var trace1 = {
-  x: [1, 2, 3, 4, 5],
+  x: [1, 2, 3, 4, 10],
   y: [1, 6, 3, 6, 1],
   mode: 'markers+text',
   type: 'scatter',
