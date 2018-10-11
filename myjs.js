@@ -1,6 +1,6 @@
 var trace1 = {
   x: [1, 2, 3, 4, 10],
-  y: [1, 6, 3, 6, 1],
+  y: [1, 6, 3, 6, 10],
   mode: 'markers+text',
   type: 'scatter',
   name: 'Team A',
