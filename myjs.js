@@ -30,7 +30,7 @@ var data = [ trace1, trace2 ];
 
 var layout = { 
   xaxis: {
-    range: [ 0.75, 5.25 ] 
+    range: [ 0.75, 10.5 ] 
   },
   yaxis: {
     range: [0, 8]
